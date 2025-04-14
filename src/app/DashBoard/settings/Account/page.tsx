@@ -3,7 +3,7 @@ const Account = () => {
     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-blue-50 p-9 ">
       <div className="bg-white shadow-xl mx-auto  rounded-xl p-8 ">
         <h1 className="px-4 py-4 font-bold mb-8 text-gray-800 text-3xl flex items-center justify-center">
-          Account Settings
+          Account Setting
         </h1>
         <div className="space-y-8">
           <div>
