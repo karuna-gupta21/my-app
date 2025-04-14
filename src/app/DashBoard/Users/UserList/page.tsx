@@ -2,7 +2,7 @@ const UserList = () => {
   const user = [
     {
       id: 1,
-      name: "John Doe",
+      name: "John Doe New",
       email: "john.doe@example.com",
       role: "Admin",
       status: "Active",

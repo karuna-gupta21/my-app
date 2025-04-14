@@ -7,7 +7,7 @@ const Users = () => {
         <p className="text-lg text-gray-800 mb-8">
           {" "}
           Manage your users here. You can view detailed information or browse a
-          list of users.
+          list of users!
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2  ">
           <Link
